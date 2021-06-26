@@ -22,3 +22,6 @@ https://pypi.org/project/ffmpeg-python/
 
 ## Gephi
 - Install Gephi from https://gephi.org/  
+
+## Note  
+- 'Extract-Here' (on *Windows Machine*) the 'data-files.zip' so that the data files are extracted in the same folder where the jupyter notebook files are running. This will avoid any conflicts when running the presentation slides and sensitivity analysis.
