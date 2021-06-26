@@ -1,14 +1,14 @@
 ## Required Python dependencies
 Besides the standard python data analysis (*numpy, pandas, scipy*) and plotting libraries (*matplotlib*), please install the following: 
-- Install *Rise* extension for Jupyter sildeshow  
+- *Rise* extension for Jupyter sildeshow  
 https://rise.readthedocs.io/en/stable/installation.html  
-- Install the *NetworkX* extension for analysing network structures.  
+- *NetworkX* extension for analysing network structures.  
 https://networkx.org/documentation/stable/install.html  
-- Install the *SALib* package for sensitivity analysis.  
+- *SALib* package for sensitivity analysis.  
 https://salib.readthedocs.io/en/latest/getting-started.html#installing-salib  
-- Install the *seaborn* package.  
+- *seaborn* package.  
 https://seaborn.pydata.org/installing.html
-- Install the *tqdm* package.  
+- *tqdm* package.  
 https://anaconda.org/conda-forge/tqdm
 - Though animation is included in *matplotlib*, one may require to install the *ffmpeg* extension.  
 https://pypi.org/project/ffmpeg-python/  
