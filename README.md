@@ -28,4 +28,4 @@ https://pypi.org/project/ffmpeg-python/
 
 ## Note  
 - 'Extract-Here' (on *Windows Machine*) the 'data-files.zip' so that the data files are extracted in the same folder where the jupyter notebook files are running. This will avoid any conflicts when running the presentation slides and sensitivity analysis.
-- The python code is in the presentation slides.  
+- The python code is in the presentation slides and the data is in the zip file.  
