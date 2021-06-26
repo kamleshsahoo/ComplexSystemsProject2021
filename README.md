@@ -18,10 +18,11 @@ https://pypi.org/project/ffmpeg-python/
 
 - Our final model can also be run from a web browser at http://www.netlogoweb.org/launch?#https://kamleshsahoo.github.io./Depression.nlogo. However, for efficieny reasons we recommend installing Netlogo.
 
-- The sensitivity analysis is based on the Netlogo model. To avoid the long execution times we have included the sensitivity analysis results as 'ouput.txt' file which is based on 7200 parameter combinations each running for 5000 time points. To do the analysis again, run the 'sobol_analysis.nlogo' file. Additional comments are included in the file and Appendix. 
+- The sensitivity analysis is based on the Netlogo model. To avoid the long execution times we have included the sensitivity analysis results as 'ouput.txt' file which is based on 7200 parameter combinations each running for 5000 time points. To do the analysis again, run the 'sobol_analysis.nlogo' file. Additional comments are included in the file and Appendix of the presentation slides. 
 
 ## Gephi
 - Install Gephi from https://gephi.org/  
 
 ## Note  
 - 'Extract-Here' (on *Windows Machine*) the 'data-files.zip' so that the data files are extracted in the same folder where the jupyter notebook files are running. This will avoid any conflicts when running the presentation slides and sensitivity analysis.
+- The python code is in the presentation slides.  
