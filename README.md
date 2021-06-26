@@ -1,3 +1,6 @@
+# Major depression as a symptom network  
+Our model is a network - representation of major depression. The final model is a Netlogo implementation showing the dynamics of depression over time while the analysis is performed in Python.
+
 ## Required Python dependencies
 Besides the standard python data analysis (*numpy, pandas, scipy*) and plotting libraries (*matplotlib*), please install the following: 
 - *Rise* extension for Jupyter sildeshow  
