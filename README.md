@@ -1,6 +1,9 @@
 # Major depression as a symptom network  
 Our model is a network - representation of major depression. The final model is a Netlogo implementation showing the dynamics of depression over time while the analysis is performed in Python.
 
+## Data
+- All the data is included in the zip file.  
+- The empirical data we used to create our final model is based on the 14 symptoms disaggregated network model of Major Depression in the paper https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167490 . The dataset is publicly available at https://figshare.com/projects/Major_depression_as_a_complex_dynamic_system_accepted_for_publication_in_PLoS_ONE_/17360  
 ## Required Python dependencies
 Besides the standard python data analysis (*numpy, pandas, scipy*) and plotting libraries (*matplotlib*), please install the following: 
 - *Rise* extension for Jupyter sildeshow  
@@ -27,5 +30,5 @@ https://pypi.org/project/ffmpeg-python/
 - Install Gephi from https://gephi.org/  
 
 ## Note  
-- 'Extract-Here' (on *Windows Machine*) the 'data-files.zip' so that the data files are extracted in the same folder where the jupyter notebook files are running. This will avoid any conflicts when running the presentation slides and sensitivity analysis.
-- The python code is in the presentation slides and the data is in the zip file.  
+- 'Extract-Here' (on *Windows machine*) the 'data-files.zip' so that the data files are extracted in the same folder where the jupyter notebook files are running. This will avoid any conflicts when running the presentation slides and sensitivity analysis.
+- The python code is in the presentation slides.  
